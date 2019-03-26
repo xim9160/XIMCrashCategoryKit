@@ -1,0 +1,22 @@
+{
+  "name": "XIMCrashCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of XIMCrashCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xim9160/XIMCrashCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xim9160": "281016974@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xim9160/XIMCrashCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XIMCrashCategoryKit/Classes/**/*"
+}

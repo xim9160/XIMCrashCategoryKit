@@ -1,0 +1,6 @@
+framework module XIMCrashCategoryKit {
+  umbrella header "XIMCrashCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

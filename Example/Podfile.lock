@@ -1,0 +1,16 @@
+PODS:
+  - XIMCrashCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - XIMCrashCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  XIMCrashCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XIMCrashCategoryKit: 3f3c0c560a608caad6fa6b43b5a2fe2f356b808f
+
+PODFILE CHECKSUM: 45455e10936c040e21627c1703d8de14657c7d36
+
+COCOAPODS: 1.7.0.beta.1

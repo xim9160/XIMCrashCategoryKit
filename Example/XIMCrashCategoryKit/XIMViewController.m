@@ -18,6 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSString *str = @"abcdefg";
+    //这里通过runtime拦截崩溃
+    NSString *subStr = [str substringToIndex:100];
+    NSLog(@"subStr:%@", subStr);
 }
 
 - (void)didReceiveMemoryWarning

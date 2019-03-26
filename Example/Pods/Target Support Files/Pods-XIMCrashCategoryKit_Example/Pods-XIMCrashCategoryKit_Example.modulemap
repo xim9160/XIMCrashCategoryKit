@@ -1,0 +1,6 @@
+framework module Pods_XIMCrashCategoryKit_Example {
+  umbrella header "Pods-XIMCrashCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
