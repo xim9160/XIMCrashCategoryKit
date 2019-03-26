@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XIMCrashCategoryKit_Example' do
+  pod 'XIMCrashCategoryKit', :path => '../'
+
+  target 'XIMCrashCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
